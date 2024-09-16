@@ -583,6 +583,18 @@ video {
   width: 50%;
 }
 
+.flex-col {
+  flex-direction: column;
+}
+
 .font-sans {
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.text-\[16px\] {
+  font-size: 16px;
+}
+
+.text-\[\] {
+  color: ;
 }
